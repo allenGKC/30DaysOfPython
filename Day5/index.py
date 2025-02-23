@@ -1,4 +1,5 @@
 # Exercises: Day 5
+
 # Exercises: Level 1
 # 1. Declare an empty list
 list = []
